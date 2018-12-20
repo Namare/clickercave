@@ -22,7 +22,7 @@
         <preference name="android-installLocation" value="auto"/>
         <preference name="android-signed" value="true"/>
         <preference name="Fullscreen" value="true"/>
-        <preference name="Orientation" value="landscape" />
+        <preference name="Orientation" value="portrait" />
         <preference name="KeepRunning" value="false"/>
         <preference name="AndroidLaunchMode" value="singleTop"/>
     </platform>
