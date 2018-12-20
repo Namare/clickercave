@@ -21,7 +21,9 @@
         <preference name="android-targetSdkVersion" value="25"/>
         <preference name="android-installLocation" value="auto"/>
         <preference name="android-signed" value="true"/>
-        <preference name="Fullscreen" value="false"/>
+        <preference name="Fullscreen" value="true"/>
+        <preference name="Orientation" value="landscape" />
+        <preference name="KeepRunning" value="false"/>
         <preference name="AndroidLaunchMode" value="singleTop"/>
     </platform>
     <description>
