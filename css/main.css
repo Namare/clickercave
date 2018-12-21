@@ -4,14 +4,25 @@ body{
     padding: 0px;
 }
 
-.iceland1{}
+.gamebox{
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.iceland1{
+    position: relative;
+    width: 71%;
+    height: 32%;
+    background-image: url(../img/land1.png);
+    margin: auto;
+    top: 22%;
+
+}
 
 .panelbot{
     width: 100%;
     bottom: 0px;
     background-image: url(../img/panelbot.png);
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 35%;
-    position: absolute;
 }
