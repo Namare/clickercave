@@ -1,3 +1,10 @@
 body{
-    background-color: #ddd;
+    background-color: #99afb8c2;
+}
+
+.panelbot{
+    width: 100%;
+    bottom: 50px ;
+    background-image: url("img/panelbot.png");
+    height: 20%;
 }
