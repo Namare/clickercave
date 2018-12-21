@@ -6,11 +6,11 @@ body{
 
 .gamebox{
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: absolute;
 }
 .bigcoin{
-    background-size: contain;
+
     top:55%;
     left: 47%;
     background-image: url("../img/bigcoin.png");
@@ -20,17 +20,35 @@ body{
 }
 
 .iceland1{
-    background-size: contain;
+
     position: relative;
-    width: 71%;
-    height: 32%;
+    width: 63%;
+    height: 25%;
     background-image: url(../img/land1.png);
     margin: auto;
     top: 22%;
 
 }
+.pixaxe1{
+    width: 50%;
+    height: 50%;
+    background-image: url(../img/pixaxe1.png);
+    z-index: 99;
+    margin: auto;
+    position: relative;
+    top: 32px;
+}
+.btn{
 
+    background-image: url(../img/btn.png);
+    width: 36%;
+    height: 19%;
+    position: relative;
+    margin: auto;
+    bottom: -42%;
+}
 .panelbot{
+    background-size: cover;
     width: 100%;
     bottom: 0px;
     background-image: url(../img/panelbot.png);
