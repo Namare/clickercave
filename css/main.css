@@ -30,30 +30,20 @@ body{
     top: 22%;
 
 }
-.pixaxe1{
-    width: 50%;
-    height: 50%;
+.pixaxe1 {
     background-image: url(../img/pixaxe1.png);
-    z-index: 99;
+    width: 32%;
+    height: 49%;
     margin: auto;
+    top: 5%;
     position: relative;
-    top: 32px;
-}
-.btn{
-
-    background-image: url(../img/btn.png);
-    width: 36%;
-    height: 19%;
-    position: relative;
-    margin: auto;
-    bottom: -42%;
 }
 .panelbot{
-    background-size: cover;
+    background-size: 103% 102%;
     width: 100%;
     bottom: 0px;
     background-image: url(../img/panelbot.png);
-    height: 35%;
+    height: 34%;
 }
 
 .acc {
