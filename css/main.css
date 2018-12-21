@@ -1,10 +1,17 @@
 body{
     background-color: #99afb8c2;
+    margin: 0px;
+    padding: 0px;
 }
+
+.iceland1{}
 
 .panelbot{
     width: 100%;
-    bottom: 50px ;
-    background-image: url("img/panelbot.png");
-    height: 20%;
+    bottom: 0px;
+    background-image: url(../img/panelbot.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35%;
+    position: absolute;
 }
