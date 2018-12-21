@@ -2,6 +2,7 @@ body{
     background-color: rgba(143, 174, 184, 0.76);
     margin: 0px;
     padding: 0px;
+    display: none;
 }
 
 .gamebox{
