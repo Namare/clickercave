@@ -36,3 +36,10 @@ body{
     background-image: url(../img/panelbot.png);
     height: 35%;
 }
+
+.acc {
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
